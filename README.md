@@ -5,4 +5,4 @@ Project #1: The first project was about implementing mathematical formulas and p
 
 Project #2: The second project consists of using C++ to construct a list and its properties. We had to construct an arraylist (normal type of list used in Python) and a linked list and constructing the properties like adding, removing, replacing and changing the position of an element to a list.
 
-Project #3: The third projects uses Python again to generate fractals.
+Project #3: The third projects uses Python again to generate fractals, chaos game and how to combine two fractals.
